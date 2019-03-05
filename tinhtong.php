@@ -10,3 +10,4 @@ function tinhTong($n)
 	echo $b;
 }
 tinhTong($n);
+//hung 21314sldfjl
